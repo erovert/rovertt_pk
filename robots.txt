@@ -72,3 +72,5 @@ Disallow: /checkout/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://rovert.pk/sitemap_index.xml
+
+
