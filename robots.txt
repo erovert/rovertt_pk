@@ -65,6 +65,10 @@ Disallow: /wp-content/uploads/woocommerce_uploads/
 Disallow: /*?add-to-cart=
 Disallow: /*?*add-to-cart=
 Disallow: /wp-admin/
+Disallow: /order-confirmation
+Disallow: /order-confirmation/
+Disallow: /checkout
+Disallow: /checkout/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://rovert.pk/sitemap_index.xml
