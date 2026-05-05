@@ -2,16 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://rovert.pk/page-sitemap.xml</loc>
 		<lastmod>2026-05-04T18:18:19+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/product-sitemap.xml</loc>
+		<loc>https://rovert.pk/product-sitemap.xml</loc>
 		<lastmod>2026-05-04T19:02:58+00:00</lastmod>
 	</sitemap>
 
 	<sitemap>
-		<loc>/product_cat-sitemap.xml</loc>
+		<loc>https://rovert.pk/product_cat-sitemap.xml</loc>
 		<lastmod>2026-05-04T19:02:58+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
